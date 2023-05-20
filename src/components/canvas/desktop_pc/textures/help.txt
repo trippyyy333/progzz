@@ -1,0 +1,7 @@
+screen = "Material.074_30_baseColor"
+mousepad= "Material.074_21_baseColor.png"
+mouseskin = "Material.074_25_baseColor.png"
+computerlogo="Material.074_10_baseColor.jpeg"
+Material.074_30_baseColor.png
+Material.074_30_baseColor.png
+Material.074_30_baseColor.png
